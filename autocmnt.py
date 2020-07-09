@@ -1,12 +1,9 @@
-import pyautogui
 import os
 import time
 
 def main():
-    import pyautogui
     import os
     import time
-
 
     clear = lambda: os.system("cls")
     clear()
